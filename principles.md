@@ -14,6 +14,12 @@
 
 Author: Joi Ito
 
+## Principles Stefan Huber Q3/2025
+
+- Humans over systems
+- iteration over perfecton
+- compasses over maps
+
 ## Principles Stefan Huber Q3/2022
 
 1. collaborate over division
@@ -43,3 +49,15 @@ Author: Joi Ito
 - Flexibility over strength
 - Open over closed
 - We over me
+
+## Liip Principles 24.7.25
+
+[source](https://www.liip.ch/en/culture)
+
+- **Purpose** over profits
+- **Open** over closed
+- **Challenge** over comfort
+- **Trust** over control
+- **Practice** over theory
+- **Flexibility** over strength
+- **We** over me
