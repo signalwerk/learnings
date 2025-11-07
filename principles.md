@@ -14,6 +14,23 @@
 
 Author: Joi Ito
 
+## The 10 Principles of Burning Man
+
+[Source](https://burningman.org/about/10-principles/)
+
+- Radical Inclusion
+- Gifting
+- Decommodification
+- Radical Self-reliance
+- Radical Self-expression
+- Communal Effort
+- Civic Responsibility
+- Leaving No Trace
+- Participation
+- Immediacy
+
+Author: Larry Harvey
+
 ## Principles Stefan Huber Q3/2025
 
 - Humans over systems
